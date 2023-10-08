@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"c5eb361801bbae72","type":"text","text":"Basics of HTTP","x":-460,"y":-280,"width":250,"height":60,"color":"2"},
+		{"id":"0568f9344d06b753","type":"text","text":"Programming language","x":79,"y":-259,"width":250,"height":60},
+		{"id":"8a0d0a467cd180e5","type":"text","text":"HTTP server library/framework","x":180,"y":0,"width":250,"height":60},
+		{"id":"dcec1dbf4fe6cb1a","type":"text","text":"Db library/framework","x":-277,"y":-77,"width":250,"height":60},
+		{"id":"65d0803f6de58a45","type":"text","text":"Types of db","x":-960,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"08d26f015a762118","type":"text","text":"SQL","x":-677,"y":-160,"width":250,"height":60},
+		{"id":"1602fce0cc65373e","type":"text","text":"NoSQL","x":-677,"y":50,"width":250,"height":60},
+		{"id":"721b1af65d1a2101","type":"text","text":"Db ORM","x":-277,"y":110,"width":250,"height":60},
+		{"id":"5570df7b2a0efd37","type":"text","text":"Production tools","x":-266,"y":284,"width":250,"height":60},
+		{"id":"6f636eb94c490ec8","type":"text","text":"Git","x":60,"y":200,"width":250,"height":60,"color":"2"},
+		{"id":"3121a54bd996d965","type":"text","text":"GitHub Actions","x":-27,"y":465,"width":250,"height":60},
+		{"id":"e07b476f2b06d04e","type":"text","text":"Docker","x":-615,"y":465,"width":250,"height":60},
+		{"id":"904267cfcfc9874d","type":"text","text":"Kubernetes","x":-402,"y":640,"width":250,"height":60},
+		{"id":"b219bc6bd5672fd8","type":"text","text":"Architecture","x":-646,"y":219,"width":250,"height":60},
+		{"id":"a21719a7e36d16f3","type":"text","text":"Paradigms","x":-1096,"y":160,"width":250,"height":60},
+		{"id":"1c43c9e13cb11023","type":"text","text":"Crafting your own","x":-1098,"y":303,"width":250,"height":60},
+		{"id":"7e2a670c591b03cb","x":98,"y":610,"width":250,"height":60,"color":"6","type":"text","text":"#SyncStudy"}
+	],
+	"edges":[
+		{"id":"5946c039ff87821e","fromNode":"c5eb361801bbae72","fromSide":"right","toNode":"0568f9344d06b753","toSide":"left"},
+		{"id":"6715c28384e433c3","fromNode":"0568f9344d06b753","fromSide":"bottom","toNode":"8a0d0a467cd180e5","toSide":"top"},
+		{"id":"8bf6e8857f7eac0c","fromNode":"8a0d0a467cd180e5","fromSide":"left","toNode":"dcec1dbf4fe6cb1a","toSide":"right"},
+		{"id":"77483d6dd07e8b02","fromNode":"dcec1dbf4fe6cb1a","fromSide":"bottom","toNode":"721b1af65d1a2101","toSide":"top"},
+		{"id":"d398a7100ff0b737","fromNode":"08d26f015a762118","fromSide":"right","toNode":"dcec1dbf4fe6cb1a","toSide":"left"},
+		{"id":"107bb8501263cdc2","fromNode":"1602fce0cc65373e","fromSide":"right","toNode":"dcec1dbf4fe6cb1a","toSide":"left"},
+		{"id":"5ac89c8703aaf61d","fromNode":"65d0803f6de58a45","fromSide":"bottom","toNode":"1602fce0cc65373e","toSide":"left"},
+		{"id":"0364e56e340968e8","fromNode":"65d0803f6de58a45","fromSide":"top","toNode":"08d26f015a762118","toSide":"left"},
+		{"id":"4ffdf1a0fa8c1647","fromNode":"721b1af65d1a2101","fromSide":"bottom","toNode":"5570df7b2a0efd37","toSide":"top"},
+		{"id":"84c2aab364620d07","fromNode":"5570df7b2a0efd37","fromSide":"bottom","toNode":"e07b476f2b06d04e","toSide":"top"},
+		{"id":"9b4a01a7fb6a0590","fromNode":"5570df7b2a0efd37","fromSide":"bottom","toNode":"3121a54bd996d965","toSide":"top"},
+		{"id":"060a4f96f58a7486","fromNode":"6f636eb94c490ec8","fromSide":"bottom","toNode":"3121a54bd996d965","toSide":"top"},
+		{"id":"7cd4fa4eaa0bb273","fromNode":"e07b476f2b06d04e","fromSide":"bottom","toNode":"904267cfcfc9874d","toSide":"top"},
+		{"id":"794c2255b6f879a2","fromNode":"721b1af65d1a2101","fromSide":"bottom","toNode":"b219bc6bd5672fd8","toSide":"right"},
+		{"id":"b71f85bf891bde96","fromNode":"b219bc6bd5672fd8","fromSide":"left","toNode":"a21719a7e36d16f3","toSide":"right"},
+		{"id":"688ceea7e5458f72","fromNode":"b219bc6bd5672fd8","fromSide":"left","toNode":"1c43c9e13cb11023","toSide":"right"}
+	]
+}
