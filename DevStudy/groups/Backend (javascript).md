@@ -6,6 +6,7 @@ Lessons ([[Backend.canvas|Backend]]):
 3. [[Database types. SQL vs NoSQL]]
 4. [[Javascript]]
 5. [[Javascript runtimes. Node]]
-6. [[Javascript http server. Express]]
+6. [[Typescript]]
+7. [[Javascript http server. Express]]
 
 #SyncStudy

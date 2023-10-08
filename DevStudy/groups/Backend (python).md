@@ -1,5 +1,5 @@
 Teacher: [[Kalinin Ilya]]
-Tech: Node, express
+Tech: Python, FastAPI
 Lessons ([[Backend.canvas|Backend]]):
 1. [[Basics of HTTP]]
 2. [[Database. What and what for]]

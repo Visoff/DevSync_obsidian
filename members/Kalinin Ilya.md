@@ -1,3 +1,3 @@
-Software engineer and stuff and owner
+Software engineer and stuff
 
 #teacher

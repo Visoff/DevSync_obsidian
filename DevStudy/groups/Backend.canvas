@@ -16,7 +16,8 @@
 		{"id":"b219bc6bd5672fd8","type":"text","text":"Architecture","x":-646,"y":219,"width":250,"height":60},
 		{"id":"a21719a7e36d16f3","type":"text","text":"Paradigms","x":-1096,"y":160,"width":250,"height":60},
 		{"id":"1c43c9e13cb11023","type":"text","text":"Crafting your own","x":-1098,"y":303,"width":250,"height":60},
-		{"id":"7e2a670c591b03cb","x":98,"y":610,"width":250,"height":60,"color":"6","type":"text","text":"#SyncStudy"}
+		{"id":"7e2a670c591b03cb","type":"text","text":"#SyncStudy","x":98,"y":610,"width":250,"height":60,"color":"6"},
+		{"id":"a5bb6efa299de505","x":-802,"y":640,"width":250,"height":60,"type":"text","text":"Docker Swarm"}
 	],
 	"edges":[
 		{"id":"5946c039ff87821e","fromNode":"c5eb361801bbae72","fromSide":"right","toNode":"0568f9344d06b753","toSide":"left"},
@@ -34,6 +35,7 @@
 		{"id":"7cd4fa4eaa0bb273","fromNode":"e07b476f2b06d04e","fromSide":"bottom","toNode":"904267cfcfc9874d","toSide":"top"},
 		{"id":"794c2255b6f879a2","fromNode":"721b1af65d1a2101","fromSide":"bottom","toNode":"b219bc6bd5672fd8","toSide":"right"},
 		{"id":"b71f85bf891bde96","fromNode":"b219bc6bd5672fd8","fromSide":"left","toNode":"a21719a7e36d16f3","toSide":"right"},
-		{"id":"688ceea7e5458f72","fromNode":"b219bc6bd5672fd8","fromSide":"left","toNode":"1c43c9e13cb11023","toSide":"right"}
+		{"id":"688ceea7e5458f72","fromNode":"b219bc6bd5672fd8","fromSide":"left","toNode":"1c43c9e13cb11023","toSide":"right"},
+		{"id":"9157c1b2d649f722","fromNode":"e07b476f2b06d04e","fromSide":"bottom","toNode":"a5bb6efa299de505","toSide":"top"}
 	]
 }

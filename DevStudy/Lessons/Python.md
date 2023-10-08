@@ -1,5 +1,5 @@
 Python is memory safe, garbage collected, interpreted programming language
 
-They should already know that!!!!!!!!!!!!!!!!!!!!!
+[python tutor](https://pythontutor.ru)
 
 #SyncStudy

@@ -1,4 +1,4 @@
-Javascript is memory save, garbage collected, interpreted or just in time compiled programming language, designed specifically for building interactive websites.
+Javascript is memory save, garbage collected, weekly typed, interpreted or just in time compiled programming language, designed specifically for building interactive websites.
 But nowdays to powers a lot more than just websites. Powerful backends and so much more heart taking frontend experiences could be build with Javascript.
 Let's dive in with some quick examples
 
