@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevStudy/Lessons/Python.md",
+                "file": "DevStudy/groups/Web (beginner).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevStudy/Lessons/Python.md",
+                "file": "DevStudy/groups/Web (beginner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevStudy/Lessons/Python.md",
+                "file": "DevStudy/groups/Web (beginner).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevStudy/Lessons/Python.md"
+                "file": "DevStudy/groups/Web (beginner).md"
               }
             }
           },
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d43fcf8d5a625f",
+  "active": "fd56ae07fdb34598",
   "lastOpenFiles": [
+    "DevStudy/Lessons/Python.md",
     "DevStudy/groups/Web (beginner).md",
     "DevStudy/groups/Telegram bots (python).md",
     "DevStudy/groups/HTML, CSS.canvas",
@@ -176,7 +177,6 @@
     "Integrated social environment.md",
     "members/Kalinin Ilya — копия.md",
     "DevStudy/Lessons/Javascript.md",
-    "DevStudy/Lessons/Python.md",
     "DevStudy/Lessons/Database types. SQL vs NoSQL.md",
     "DevStudy/Lessons/Javascript runtimes. Node.md",
     "DevStudy/Lessons/Javascript http server. Express.md",
