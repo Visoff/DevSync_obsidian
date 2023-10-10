@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fce4c4e00965fd5d",
+        "id": "15208ca97272634e",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb9ed7562785f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devsync.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e37e7ad9049ae86",
+            "id": "841455edaf3e430b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,14 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e37e7ad9049ae86",
+  "active": "841455edaf3e430b",
   "lastOpenFiles": [
-    "Devsync.md",
     "DevStudy/groups/Backend.canvas",
-    "DevSocial",
-    "DevSocial/Integrated social environment.md",
-    "members/Krivich Victoria.md",
+    "Devsync.md",
     "members/Kalinin Ilya.md",
+    "members/Krivich Victoria.md",
+    "DevStudy/groups/Telegram bots (python).md",
+    "DevSocial/Integrated social environment.md",
+    "DevSocial",
     "DevStudy/SyncStudy.md",
     "DevStudy/Lessons/Python http server. Fast api.md",
     "DevStudy/Lessons/Python.md",
@@ -190,7 +178,6 @@
     "DevStudy/groups/Backend (javascript).md",
     "DevStudy/groups/Backend (python).md",
     "DevStudy/groups/React.md",
-    "DevStudy/groups/Telegram bots (python).md",
     "DevStudy/groups/Web (advanced).md",
     "DevStudy/groups/Web (beginner).md",
     "members/Kalinin Ilya 1.md",
