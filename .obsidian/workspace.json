@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevSocial/Integrated social environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevSocial/Integrated social environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevSocial/Integrated social environment.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -156,14 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "841455edaf3e430b",
+  "active": "98d43fcf8d5a625f",
   "lastOpenFiles": [
+    "Новый текстовый документ.txt",
+    "DevSocial/Integrated social environment.md",
+    "Untitled.md",
+    "DevStudy/Lessons/Structure of HTML document.md",
     "DevStudy/groups/Backend.canvas",
     "Devsync.md",
     "members/Kalinin Ilya.md",
     "members/Krivich Victoria.md",
     "DevStudy/groups/Telegram bots (python).md",
-    "DevSocial/Integrated social environment.md",
     "DevSocial",
     "DevStudy/SyncStudy.md",
     "DevStudy/Lessons/Python http server. Fast api.md",
@@ -186,9 +187,7 @@
     "members",
     "[backend.md",
     "backend.md",
-    "Untitled.md",
     "DevStudy/groups",
-    "Knowlage dict(as 17yo software engineer).md",
     "folder_ro_something"
   ]
 }
