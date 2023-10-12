@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -18,7 +18,21 @@
       "query": "#teacher",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11026924
+      }
+    },
+    {
+      "query": "#DevServices",
+      "color": {
+        "a": 1,
+        "rgb": 14606647
+      }
+    },
+    {
+      "query": "#DevSocial",
+      "color": {
+        "a": 1,
+        "rgb": 5499389
       }
     }
   ],
@@ -26,17 +40,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.6535343035343,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.9272954289119935,
+  "scale": 0.7594985384661896,
   "close": false
-=======
-  "scale": 1.1093401881325855,
-  "close": true
->>>>>>> d2a03d0 (...)
 }

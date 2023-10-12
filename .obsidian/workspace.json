@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32aba2382783671f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevSocial/Integrated social environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevSocial/Integrated social environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevSocial/Integrated social environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "DevSocial/Integrated social environment.md"
               }
             }
           },
@@ -154,19 +170,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d43fcf8d5a625f",
+  "active": "32aba2382783671f",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
-    "DevSocial/Integrated social environment.md",
-    "Untitled.md",
-    "DevStudy/Lessons/Structure of HTML document.md",
-    "DevStudy/groups/Backend.canvas",
-    "Devsync.md",
     "members/Kalinin Ilya.md",
-    "members/Krivich Victoria.md",
-    "DevStudy/groups/Telegram bots (python).md",
-    "DevSocial",
+    "DevSocial/App Architecture.md",
+    "DevServices/Service Architecture.md",
+    "Devsync.md",
+    "DevServices",
+    "DevSocial/Integrated social environment.md",
+    "DevStudy/groups/Web (advanced).md",
+    "DevStudy/Lessons/Clinet-server architecture.md",
+    "DevStudy/Lessons/Basics of HTTP.md",
+    "DevStudy/Lessons/Polling.canvas",
+    "DevStudy/groups/Web (beginner).md",
+    "DevStudy/groups/React.md",
+    "DevStudy/Lessons/Structure of HTML document.md",
     "DevStudy/SyncStudy.md",
+    "Untitled.md",
+    "members/Krivich Victoria.md",
+    "DevSocial",
+    "Integrated social environment.md",
+    "Новый текстовый документ.txt",
+    "DevStudy/groups/Backend.canvas",
+    "DevStudy/groups/Telegram bots (python).md",
     "DevStudy/Lessons/Python http server. Fast api.md",
     "DevStudy/Lessons/Python.md",
     "DevStudy/Lessons/Javascript runtimes. Node.md",
@@ -174,19 +200,11 @@
     "DevStudy/Lessons/Javascript.md",
     "DevStudy/Lessons/Database. What and what for.md",
     "DevStudy/Lessons/Database types. SQL vs NoSQL.md",
-    "DevStudy/Lessons/Clinet-server architecture.md",
-    "DevStudy/Lessons/Basics of HTTP.md",
     "DevStudy/groups/Backend (javascript).md",
     "DevStudy/groups/Backend (python).md",
-    "DevStudy/groups/React.md",
-    "DevStudy/groups/Web (advanced).md",
-    "DevStudy/groups/Web (beginner).md",
-    "members/Kalinin Ilya 1.md",
     "DevStudy/Lessons",
     "DevStudy",
     "members",
-    "[backend.md",
-    "backend.md",
     "DevStudy/groups",
     "folder_ro_something"
   ]
