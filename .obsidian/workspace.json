@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevStudy/groups/Web (beginner).md",
+                "file": "DevStudy/Lessons/Text and media markup HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevStudy/groups/Web (beginner).md",
+                "file": "DevStudy/Lessons/Text and media markup HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevStudy/groups/Web (beginner).md",
+                "file": "DevStudy/Lessons/Text and media markup HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevStudy/groups/Web (beginner).md"
+                "file": "DevStudy/Lessons/Text and media markup HTML.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "9fb9ed7562785f73",
   "lastOpenFiles": [
-    "DevStudy/Lessons/Text and media markup HTML.md",
     "DevStudy/groups/Web (beginner).md",
+    "DevStudy/Lessons/Text and media markup HTML.md",
     "Devsync.md",
     "DevStudy/Lessons/Structure of HTML document.md",
     "DevStudy/Lessons/Basics of HTTP.md",
