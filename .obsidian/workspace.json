@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevSocial/Integrated social environment.md",
+                "file": "DevStudy/Lessons/CSS base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevStudy/Lessons/CSS base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevStudy/Lessons/CSS base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,12 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d43fcf8d5a625f",
+  "active": "9fb9ed7562785f73",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
-    "DevSocial/Integrated social environment.md",
-    "Untitled.md",
+    "Pasted image 20231013140328.png",
+    "DevStudy/groups/Web (beginner).md",
+    "DevStudy/Lessons/CSS base.md",
+    "DevStudy/Lessons/Text and media markup HTML.md",
+    "Devsync.md",
     "DevStudy/Lessons/Structure of HTML document.md",
+    "DevStudy/Lessons/Basics of HTTP.md",
+    "DevStudy/Lessons/Javascript.md",
+    "DevStudy/Lessons/Clinet-server architecture.md",
+    "DevStudy/groups/Web (advanced).md",
+    "Structure of HTML document",
+    "DevStudy/groups/Telegram bots (python).md",
+    "DevSocial/Integrated social environment.md",
     "DevStudy/groups/Backend.canvas",
     "Devsync.md",
     "members/Kalinin Ilya.md",
