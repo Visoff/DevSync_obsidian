@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devsync.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e37e7ad9049ae86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevStudy/Lessons/Structure of HTML document.md",
+                "file": "DevStudy/groups/Web (beginner).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevStudy/Lessons/Structure of HTML document.md",
+                "file": "DevStudy/groups/Web (beginner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevStudy/Lessons/Structure of HTML document.md",
+                "file": "DevStudy/groups/Web (beginner).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevStudy/Lessons/Structure of HTML document.md"
+                "file": "DevStudy/groups/Web (beginner).md"
               }
             }
           },
@@ -169,17 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e37e7ad9049ae86",
+  "active": "9fb9ed7562785f73",
   "lastOpenFiles": [
+    "DevStudy/Lessons/Text and media markup HTML.md",
+    "DevStudy/groups/Web (beginner).md",
+    "Devsync.md",
+    "DevStudy/Lessons/Structure of HTML document.md",
+    "DevStudy/Lessons/Basics of HTTP.md",
     "DevStudy/Lessons/Javascript.md",
     "DevStudy/Lessons/Clinet-server architecture.md",
-    "DevStudy/Lessons/Structure of HTML document.md",
-    "DevStudy/groups/Web (beginner).md",
     "DevStudy/groups/Web (advanced).md",
     "Structure of HTML document",
     "DevStudy/groups/Telegram bots (python).md",
     "DevSocial/Integrated social environment.md",
-    "Devsync.md",
     "DevStudy/groups/Backend.canvas",
     "DevSocial",
     "members/Krivich Victoria.md",
@@ -191,7 +180,6 @@
     "DevStudy/Lessons/Javascript http server. Express.md",
     "DevStudy/Lessons/Database. What and what for.md",
     "DevStudy/Lessons/Database types. SQL vs NoSQL.md",
-    "DevStudy/Lessons/Basics of HTTP.md",
     "DevStudy/groups/Backend (javascript).md",
     "DevStudy/groups/Backend (python).md",
     "DevStudy/groups/React.md",
@@ -203,7 +191,6 @@
     "backend.md",
     "Untitled.md",
     "DevStudy/groups",
-    "Knowlage dict(as 17yo software engineer).md",
     "folder_ro_something"
   ]
 }
