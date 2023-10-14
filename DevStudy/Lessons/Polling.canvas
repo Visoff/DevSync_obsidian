@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"db3cd97f2f0c4cc3","x":-500,"y":-220,"width":250,"height":440,"color":"3","type":"text","text":"Client"},
+		{"id":"fd4f7c5ecc9b1f10","x":16,"y":-220,"width":250,"height":440,"color":"6","type":"text","text":"Server"}
+	],
+	"edges":[
+		{"id":"8de33570486102ac","fromNode":"db3cd97f2f0c4cc3","fromSide":"right","toNode":"fd4f7c5ecc9b1f10","toSide":"left"}
+	]
+}

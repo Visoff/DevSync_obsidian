@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15208ca97272634e",
+        "id": "fce4c4e00965fd5d",
         "type": "tabs",
         "children": [
           {
-            "id": "841455edaf3e430b",
+            "id": "9fb9ed7562785f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevStudy/Lessons/CSS base.md",
+                "file": "DevStudy/Lessons/Clinet-server architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevStudy/Lessons/CSS base.md",
+                "file": "DevStudy/Lessons/Clinet-server architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevStudy/Lessons/CSS base.md",
+                "file": "DevStudy/Lessons/Clinet-server architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "DevStudy/Lessons/Clinet-server architecture.md"
               }
             }
           },
@@ -158,47 +158,37 @@
   },
   "active": "9fb9ed7562785f73",
   "lastOpenFiles": [
-    "Pasted image 20231013140328.png",
-    "DevStudy/groups/Web (beginner).md",
-    "DevStudy/Lessons/CSS base.md",
-    "DevStudy/Lessons/Text and media markup HTML.md",
-    "Devsync.md",
-    "DevStudy/Lessons/Structure of HTML document.md",
-    "DevStudy/Lessons/Basics of HTTP.md",
-    "DevStudy/Lessons/Javascript.md",
-    "DevStudy/Lessons/Clinet-server architecture.md",
     "DevStudy/groups/Web (advanced).md",
-    "Structure of HTML document",
-    "DevStudy/groups/Telegram bots (python).md",
-    "DevSocial/Integrated social environment.md",
-    "DevStudy/groups/Backend.canvas",
-    "Devsync.md",
-    "members/Kalinin Ilya.md",
-    "members/Krivich Victoria.md",
-    "DevStudy/groups/Telegram bots (python).md",
-    "DevSocial",
-    "DevStudy/SyncStudy.md",
-    "DevStudy/Lessons/Python http server. Fast api.md",
-    "DevStudy/Lessons/Python.md",
-    "DevStudy/Lessons/Javascript runtimes. Node.md",
-    "DevStudy/Lessons/Javascript http server. Express.md",
-    "DevStudy/Lessons/Javascript.md",
-    "DevStudy/Lessons/Database. What and what for.md",
-    "DevStudy/Lessons/Database types. SQL vs NoSQL.md",
     "DevStudy/Lessons/Clinet-server architecture.md",
-    "DevStudy/Lessons/Basics of HTTP.md",
+    "DevStudy/groups/Backend.canvas",
+    "DevStudy/Lessons/Python.md",
+    "DevStudy/Lessons/Javascript.md",
     "DevStudy/groups/Backend (javascript).md",
     "DevStudy/groups/Backend (python).md",
-    "DevStudy/groups/React.md",
-    "DevStudy/groups/Web (advanced).md",
-    "DevStudy/groups/Web (beginner).md",
+    "DevStudy/SyncStudy.md",
+    "Devsync.md",
+    "DevStudy/groups/Telegram bots (python).md",
+    "DevStudy/Lessons/Database types. SQL vs NoSQL.md",
+    "DevStudy/Lessons/Database. What and what for.md",
+    "DevStudy/Lessons/Python http server. Fast api.md",
+    "members/Kalinin Ilya.md",
+    "DevStudy/Lessons/Basics of HTTP.md",
     "members/Kalinin Ilya 1.md",
+    "DevStudy/Lessons/Javascript runtimes. Node.md",
+    "DevStudy/Lessons/Javascript http server. Express.md",
     "DevStudy/Lessons",
     "DevStudy",
     "members",
+    "Integrated social environment.md",
     "[backend.md",
     "backend.md",
+    "Untitled.md",
     "DevStudy/groups",
-    "folder_ro_something"
+    "Knowlage dict(as 17yo software engineer).md",
+    "folder_ro_something",
+    "2023-10-06.md",
+    "Programming_basics.md",
+    "[[Project.md",
+    "Project.md"
   ]
 }
