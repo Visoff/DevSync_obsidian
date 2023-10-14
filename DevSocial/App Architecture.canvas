@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"268867ccde334bcd","x":-200,"y":-360,"width":400,"height":403,"type":"group","label":"Cluster 2"},
+		{"id":"c2b40fe54fb1cfcb","x":-760,"y":-200,"width":530,"height":272,"type":"group","label":"Cluster 1"},
+		{"id":"4e2b7d5e15a025fd","x":220,"y":-200,"width":565,"height":243,"type":"group","label":"Cluster 3"},
+		{"id":"27dc79c2c2389231","type":"text","text":"Web server","x":-120,"y":140,"width":250,"height":60,"color":"6"},
+		{"id":"797038ec5455e6ac","type":"text","text":"Cluster central service","x":-120,"y":-37,"width":250,"height":60,"color":"3"},
+		{"id":"842fae5f05454a85","type":"text","text":"Cluster central service","x":240,"y":-37,"width":250,"height":60,"color":"3"},
+		{"id":"311d9f86a535c540","type":"text","text":"Cluster central service","x":-500,"y":-37,"width":250,"height":60,"color":"3"},
+		{"id":"439eccb5f8ea7b59","x":-182,"y":300,"width":125,"height":60,"type":"text","text":"Request"},
+		{"id":"9e0dcb38445f25f0","type":"text","text":"Response","x":68,"y":300,"width":132,"height":60},
+		{"id":"d0b0737c7d10bd90","type":"text","text":"Service_a","x":-640,"y":-180,"width":160,"height":60,"color":"2"},
+		{"id":"25954168c41237bd","type":"text","text":"Service_a","x":-410,"y":-180,"width":160,"height":60,"color":"2"},
+		{"id":"07700dbd33594dd0","type":"text","text":"Requests to services are independent","x":-740,"y":-65,"width":160,"height":117},
+		{"id":"b0ccab58c01a294e","type":"text","text":"Service_a","x":-180,"y":-180,"width":160,"height":60,"color":"2"},
+		{"id":"749b59b86c02910c","type":"text","text":"Service_b","x":20,"y":-180,"width":160,"height":60,"color":"2"},
+		{"id":"26934e084d88ffe9","type":"text","text":"Request to Service_b requires data from response from Service_a","x":-120,"y":-340,"width":245,"height":120},
+		{"id":"ac6ef36e5c3c25e5","type":"text","text":"Service_b","x":330,"y":-180,"width":160,"height":60,"color":"2"},
+		{"id":"138e143f1d1895ec","type":"text","text":"Request to Service_b needs data from service from outside this cluster","x":520,"y":-120,"width":245,"height":120}
+	],
+	"edges":[
+		{"id":"632333509cd150e8","fromNode":"27dc79c2c2389231","fromSide":"top","toNode":"797038ec5455e6ac","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"5b85a7f8649532e6","fromNode":"27dc79c2c2389231","fromSide":"left","toNode":"311d9f86a535c540","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"ab4eb48fa90aa61e","fromNode":"27dc79c2c2389231","fromSide":"right","toNode":"842fae5f05454a85","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"9004e48b03ccf7e6","fromNode":"439eccb5f8ea7b59","fromSide":"top","toNode":"27dc79c2c2389231","toSide":"bottom"},
+		{"id":"ec3988a99bf19414","fromNode":"27dc79c2c2389231","fromSide":"bottom","toNode":"9e0dcb38445f25f0","toSide":"top"},
+		{"id":"88afe0f9ac1c74cb","fromNode":"311d9f86a535c540","fromSide":"left","toNode":"d0b0737c7d10bd90","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"18058e6d44576a3b","fromNode":"311d9f86a535c540","fromSide":"top","toNode":"25954168c41237bd","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"120ac31b8cde342e","fromNode":"797038ec5455e6ac","fromSide":"top","toNode":"b0ccab58c01a294e","toSide":"bottom"},
+		{"id":"729fdb77888b8c3c","fromNode":"b0ccab58c01a294e","fromSide":"right","toNode":"749b59b86c02910c","toSide":"left"},
+		{"id":"712b3df1cb24c365","fromNode":"749b59b86c02910c","fromSide":"bottom","toNode":"797038ec5455e6ac","toSide":"top"},
+		{"id":"39a44368edb2eab9","fromNode":"842fae5f05454a85","fromSide":"left","toNode":"797038ec5455e6ac","toSide":"right","fromEnd":"arrow"},
+		{"id":"6915b86d1a5dce62","fromNode":"842fae5f05454a85","fromSide":"top","toNode":"ac6ef36e5c3c25e5","toSide":"bottom","fromEnd":"arrow"}
+	]
+}
