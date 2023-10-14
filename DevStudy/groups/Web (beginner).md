@@ -2,8 +2,8 @@ Teacher: [[Krivich Victoria]]
 Tech: HTML, CSS, base of programming language
 Lessons (WEB):
 1. [[Structure of HTML document]]
-2. Text and media markup HTML
-3. CSS base
+2. [[Text and media markup HTML]]
+3. [[CSS base]]
 4. Figma
 5. Layout designs (relative, absolute, adaptive)
 6. Position of elements (flex, grid, etc.)

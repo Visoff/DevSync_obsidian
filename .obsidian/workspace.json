@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "88d6930459051926",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce4c4e00965fd5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb9ed7562785f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevStudy/Lessons/Clinet-server architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ea1208d46601e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11f262cc46a9542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d43fcf8d5a625f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a739ad9052b0c626",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9f79deef9adae62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb8977c0ff5ec084",
+    "type": "split",
+    "children": [
+      {
+        "id": "d53fce13babc4b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "464b1ac1df1b58be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevStudy/Lessons/Clinet-server architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "717cfcbe5ef21cd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevStudy/Lessons/Clinet-server architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "593104e295d0d03d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "737de22c36ba7dcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevStudy/Lessons/Clinet-server architecture.md"
+              }
+            }
+          },
+          {
+            "id": "18f8a6f1ffc0de12",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9fb9ed7562785f73",
+  "lastOpenFiles": [
+    "DevStudy/groups/Web (advanced).md",
+    "DevStudy/Lessons/Clinet-server architecture.md",
+    "DevStudy/groups/Backend.canvas",
+    "DevStudy/Lessons/Python.md",
+    "DevStudy/Lessons/Javascript.md",
+    "DevStudy/groups/Backend (javascript).md",
+    "DevStudy/groups/Backend (python).md",
+    "DevStudy/SyncStudy.md",
+    "Devsync.md",
+    "DevStudy/groups/Telegram bots (python).md",
+    "DevStudy/Lessons/Database types. SQL vs NoSQL.md",
+    "DevStudy/Lessons/Database. What and what for.md",
+    "DevStudy/Lessons/Python http server. Fast api.md",
+    "members/Kalinin Ilya.md",
+    "DevStudy/Lessons/Basics of HTTP.md",
+    "members/Kalinin Ilya 1.md",
+    "DevStudy/Lessons/Javascript runtimes. Node.md",
+    "DevStudy/Lessons/Javascript http server. Express.md",
+    "DevStudy/Lessons",
+    "DevStudy",
+    "members",
+    "Integrated social environment.md",
+    "[backend.md",
+    "backend.md",
+    "Untitled.md",
+    "DevStudy/groups",
+    "Knowlage dict(as 17yo software engineer).md",
+    "folder_ro_something",
+    "2023-10-06.md",
+    "Programming_basics.md",
+    "[[Project.md",
+    "Project.md"
+  ]
+}
